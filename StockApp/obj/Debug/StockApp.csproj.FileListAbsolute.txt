@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\StockApp.exe.config
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\StockApp.exe
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\StockApp.pdb
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\StockApp\StockApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.csproj.CopyComplete
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.exe
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.pdb
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.Migrations.StockMigration.resources
+C:\Users\User\source\repos\StockApp\StockApp\obj\Debug\StockApp.csproj.GenerateResource.cache
